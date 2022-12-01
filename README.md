@@ -2,8 +2,8 @@
 
 🤝 𝑰 𝒂𝒎 𝒂 𝑾𝒆𝒃 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑪𝒉𝒊𝒏𝒂
 
-🔭 I’m currently working on EMQ
-🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on EMQ
+- 🌱 I’m currently learning JavaScript
 - 💬 How to reach me:
   - WeChat: `YiBai_XL`
   - E-mail:  `987313405@qq.com`
